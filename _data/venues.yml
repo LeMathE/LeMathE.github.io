@@ -1,9 +1,8 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# 学术期刊/会议配置
+# "期刊缩写":
+#   url: https://aapt.scitation.org/journal/ajp
+#   color: "#00369f"  
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
+"arXiv":
+  url: https://arxiv.org/
   color: "#009f36"

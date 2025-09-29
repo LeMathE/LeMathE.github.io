@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: JingyiLe_CV_CamSep.pdf # you can also use external links here
+description: This is my math CV. Click the top pdf button to see. (Last Version Sep. 2025)
 toc:
   sidebar: left
 ---
