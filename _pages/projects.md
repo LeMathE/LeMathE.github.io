@@ -5,7 +5,7 @@ permalink: /projects/
 description: collections of previous projects.
 nav: true
 nav_order: 3
-display_categories: [Work, Summer Research]
+display_categories: [Work, Summer Research, Notes]
 horizontal: false
 ---
 

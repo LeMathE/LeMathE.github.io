@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: p-adic and Newton's failure
+description: 2025 Summer research on Arithmetic Dynamics at Cambridge
+img: assets/img/profile.jpg
 importance: 2
-category: work
+category: Summer Research
 giscus_comments: true
 ---
 

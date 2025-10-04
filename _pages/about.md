@@ -34,3 +34,5 @@ My research interests currently focus on Number Theory (Algebraic, Analytic, etc
 I consistently maintain a constant engagement with mathematics by keeping three problems in mind: one that is almost immediately accessible, one that requires sustained effort, and one that is a profound, open conjecture. Currently, the Collatz conjecture ('3x+1' problem) occupies that third space and serves as my compass.
 
 I welcome conversations about mathematics in all its forms!
+
+(Please note: if you see this line on my page, this means my website is still under development)
