@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Start my summer research at Cambridge! 
+Started my summer research at Cambridge! 

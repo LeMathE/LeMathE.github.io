@@ -2,80 +2,23 @@
 layout: page
 title: p-adic and Newton's failure
 description: 2025 Summer research on Arithmetic Dynamics at Cambridge
-img: assets/img/profile.jpg
-importance: 2
+img: assets/img/Cambridge.svg.png
+importance: 1
 category: Summer Research
-giscus_comments: true
+giscus_comments: false
 ---
+## Abstract
+This project began with reproducing a paper of Xander Faber and  José Felipe Voloch,  <em>On the number of places of convergence for Newton’s method over number fields.</em> We extend their prime bound and explore these cubic polynomials p-adically. Then, we extend to Curtis McMullen's Newton-like map, defined via <em>Families of rational maps and iterative root-finding algorithm.</em> We plan to post a paper later this year. Some interim reports are here.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+- [view the first stage Expository Report](/assets/pdf/Expository_Report_on_Density_and_Bias.pdf)
+- [view the McMullen_Maps Report](/assets/pdf/McMullen_Maps.pdf)
+- [view the Final Presentation Slides](/assets/pdf/CMP_Part1_slide.pdf)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Project Information
+- Supervisors: Prof. Holly Krieger (University of Cambridge)
+- Collaborators: Jingyi Le (King's College London), Annalaura Pegoraro (Università di Padova), Ethan Sosin (University of Cambridge)
+- Funding: I was funded by the Cambridge Math Open Intern Program
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+## Acknowledge
+The project is supported by the University of Cambridge and DPMSS. I would like to express my gratitude to my supervisor Prof. Holly Krieger for her guidance and support, and collaboration with my groupmates Annalaura and Ethan. 

@@ -9,7 +9,7 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>King's College,</p>
+    <p>860 King's College,</p>
     <p>CB2 1ST</p>
     <p>Cambridge, UK</p>
 
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! My name is Jingyi Le (pronounced Jing-yee Loh).  I am currently a Part III Mathematics student at the University of Cambridge in the academic year 2025-26. Before this, I obtained a bachelor's degree in mathematics from King's College London. 
+Hello! My name is Jingyi Le (pronounced Jing-yee Loh).  I am currently a Part III Mathematics student at the University of Cambridge in the academic year 2025-26. Before this, I obtained a bachelor's degree in mathematics from King's College London. To view my [courses details](/assets/pdf/JingyiLe_Courselist.pdf); some written samples can be found in the 'projects' section.
 
 My research interests currently focus on Number Theory (Algebraic, Analytic, etc.) and Pure Dynamics. I would like to extend these with algebra, geometry and so on. At this formative stage, I value maintaining an open perspective across pure mathematics.
 
@@ -35,4 +35,7 @@ I consistently maintain a constant engagement with mathematics by keeping three 
 
 I welcome conversations about mathematics in all its forms!
 
-(Please note: if you see this line on my page, this means my website is still under development)
+I am originally from Chongqing and grew up in a small town near the airport in Yubei. 
+Here's a photo of Chongqing, though not Yubei, my hometown:)
+
+(Please note: if you see this line, that means my website is still under development.)

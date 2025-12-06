@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Ready for Part III Mathematics journey!
+Enjoyed the Matriculation and am ready for Part III Mathematics journey!
